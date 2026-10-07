@@ -58,3 +58,15 @@ In-Memory Repository Implementations
  │
  ▼
 HashMap
+## How to Run
+
+### Requirements
+- Java 21
+- Maven 3.8+
+
+### Run the application
+
+Clone the repository and navigate to the project directory:
+
+```bash
+mvn compile
