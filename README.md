@@ -64,6 +64,7 @@ HashMap
 - Java 21
 - Maven 3.8+
 
+
 ### Run the application
 
 Clone the repository and navigate to the project directory:
